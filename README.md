@@ -1,10 +1,7 @@
 # Wilson
 
-
-## The idea
-
-A 2-day group project developed over the weekend.
-A turn based multiplayer survival game where cooperation is key in order to survive and escape a deserted island.
+A weekend project at <Academia_de_Código_>.
+The idea was to build a turn based multiplayer survival game where cooperation is key in order to survive and escape a deserted island.
 
 ## The Development
 
