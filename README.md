@@ -1,4 +1,4 @@
-# Wilson!
+# Wilson
 
 A 2-day group project developed over the weekend.
 A turn based multiplayer survival game where cooperation is key in order to survive and escape a deserted island.
@@ -18,11 +18,10 @@ Java, IntelliJ, Linux, Mac OS, Google Slides, Prompt-View Library, Maven, Git, K
 
 ## Authors
 
+* **Carlos Cardoso** - [Carlosarc1981](https://github.com/Carlosarc1981)
 * **Eduardo Marques** - [edcm95](https://github.com/edcm95)
 * **Ricardo Dias** - [RicardoSnaw](https://github.com/RicardoSnaw)
-* **Vando Clemente** - [Vonderr](https://github.com/Vonderr)
 * **Rui Rodrigues** - [carcaso](https://github.com/carcaso)
-* **Carlos Cardoso** - [Carlosarc1981](https://github.com/Carlosarc1981)
-
+* **Vando Clemente** - [Vonderr](https://github.com/Vonderr)
 
 # Thank you!
