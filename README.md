@@ -14,7 +14,7 @@ My role was to work on the server side, trying to get all the users to get the i
 
 ## Tech && Methodologies used
 
-Java, IntelliJ, Linux, Mac OS, Google Slides, Prompt-View Library, Maven, Git, Kanban.
+Java, IntelliJ, Linux, Mac OS, Prompt-View Library, Maven, Git, Kanban.
 
 ## Authors
 
